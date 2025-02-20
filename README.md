@@ -12,6 +12,7 @@ Machine Learning Models: Naïve Bayes, Logistic Regression, BERT, DistilBERT
 Topic Modeling: LDA (Latent Dirichlet Allocation)
 Visualization: matplotlib, seaborn, wordcloud, pyLDAvis
 Interactive Interface: Streamlit for presenting results
+
 🚀 Project Structure
 📂 sentiment-analysis/
 ├── dataset/ → Contains the dataset used for analysis
@@ -22,10 +23,10 @@ Interactive Interface: Streamlit for presenting results
 └── README.md → This file
 
 🔥 Key Results
-Naïve Bayes → Accuracy: 76.39%
-Logistic Regression → Accuracy: 78%
-DistilBERT (30% dataset, 1 epoch) → Accuracy: 84.71%
-BERT (30% dataset, 1 epoch) → Accuracy: 85.24%
+Naïve Bayes → Accuracy: 76.39% \\
+Logistic Regression → Accuracy: 78%\\
+DistilBERT (30% dataset, 1 epoch) → Accuracy: 84.71%\\
+BERT (30% dataset, 1 epoch) → Accuracy: 85.24%\\
 🔹 BERT achieved the highest performance, even with limited computational resources.
 
 📊 Streamlit Dashboard
